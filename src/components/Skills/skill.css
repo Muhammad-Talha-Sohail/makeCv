@@ -1,0 +1,7 @@
+.li2
+{
+ display: flex;
+ flex-wrap: wrap;
+ list-style: square ;
+ justify-content: space-between;
+}
